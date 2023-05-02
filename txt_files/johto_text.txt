@@ -1,0 +1,30 @@
+Analysing the graph for the Johto League season
+The graph has 258 nodes and 10781 edges
+The top ten pokemon with the highest degree are:
+Pikachu: 253
+Meowth: 253
+Togepi: 251
+Wobbuffet: 251
+Arbok: 235
+Noctowl: 220
+Weezing: 211
+Totodile: 210
+Victreebel: 203
+Poliwhirl: 197
+The degree assortativity coefficient is -0.23
+The average fraction of neighbors with the same typing as the node itself is 2.76%
+The average fraction of neighbors with the same ability as the node itself is 0.20%
+The average fraction of neighbors with the same egg group as the node itself is 6.69%
+The average fraction of neighbors with the same typing as the node itself when random is 2.55%
+The average fraction of neighbors with the same ability as the node itself when random is 0.33%
+The average fraction of neighbors with the same egg group as the node itself when random is 6.67%
+Statistical tests for the three fields:
+Typing: 1.1417410724179648e-17
+Abilities: 5.2992742503157795e-55
+Egg Groups: 0.6628397665664565
+The modularity is 0.11
+There are 5 communities
+The community sizes are [92, 74, 19, 41, 28]
+Testing modularity
+The average modularity after double edge swap test is 0.08
+The p-value for the modularity test is 9.517132553217213e-60

@@ -1,0 +1,30 @@
+Analysing the graph for the Sinnoh League season
+The graph has 453 nodes and 20779 edges
+The top ten pokemon with the highest degree are:
+Pikachu: 447
+Meowth: 447
+Piplup: 443
+Wobbuffet: 428
+Croagunk: 386
+Buneary: 353
+Seviper: 345
+Buizel: 339
+Pachirisu: 328
+Carnivine: 309
+The degree assortativity coefficient is -0.23
+The average fraction of neighbors with the same typing as the node itself is 2.76%
+The average fraction of neighbors with the same ability as the node itself is 0.20%
+The average fraction of neighbors with the same egg group as the node itself is 6.69%
+The average fraction of neighbors with the same typing as the node itself when random is 2.57%
+The average fraction of neighbors with the same ability as the node itself when random is 0.34%
+The average fraction of neighbors with the same egg group as the node itself when random is 6.69%
+Statistical tests for the three fields:
+Typing: 4.5925984407775596e-17
+Abilities: 1.4947134719670773e-50
+Egg Groups: 0.9586749806645543
+The modularity is 0.13
+There are 7 communities
+The community sizes are [111, 10, 92, 40, 30, 93, 72]
+Testing modularity
+The average modularity after double edge swap test is 0.10
+The p-value for the modularity test is 6.013442350336173e-95

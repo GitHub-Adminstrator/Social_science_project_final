@@ -12,19 +12,19 @@ Buizel: 339
 Pachirisu: 328
 Carnivine: 309
 The degree assortativity coefficient is -0.23
-The average fraction of neighbors with the same typing as the node itself is 2.76%
-The average fraction of neighbors with the same ability as the node itself is 0.20%
-The average fraction of neighbors with the same egg group as the node itself is 6.69%
-The average fraction of neighbors with the same typing as the node itself when random is 2.57%
-The average fraction of neighbors with the same ability as the node itself when random is 0.34%
-The average fraction of neighbors with the same egg group as the node itself when random is 6.69%
+The average fraction of neighbors with the same typing as the node itself is 5.74%
+The average fraction of neighbors with the same ability as the node itself is 0.94%
+The average fraction of neighbors with the same egg group as the node itself is 9.30%
+The average fraction of neighbors with the same typing as the node itself when random is 3.40%
+The average fraction of neighbors with the same ability as the node itself when random is 0.60%
+The average fraction of neighbors with the same egg group as the node itself when random is 6.22%
 Statistical tests for the three fields:
-Typing: 4.5925984407775596e-17
-Abilities: 1.4947134719670773e-50
-Egg Groups: 0.9586749806645543
+Typing: 1.3588955089888272e-72
+Abilities: 7.247791692721909e-50
+Egg Groups: 6.519257677498639e-74
 The modularity is 0.13
-There are 7 communities
-The community sizes are [111, 10, 92, 40, 30, 93, 72]
+There are 6 communities
+The community sizes are [47, 82, 84, 107, 100, 28]
 Testing modularity
 The average modularity after double edge swap test is 0.10
-The p-value for the modularity test is 6.013442350336173e-95
+The p-value for the modularity test is 2.365739946229573e-106

@@ -12,19 +12,19 @@ Fletchling: 306
 Fennekin: 305
 Froakie: 304
 The degree assortativity coefficient is -0.26
-The average fraction of neighbors with the same typing as the node itself is 2.76%
-The average fraction of neighbors with the same ability as the node itself is 0.20%
-The average fraction of neighbors with the same egg group as the node itself is 6.69%
-The average fraction of neighbors with the same typing as the node itself when random is 2.58%
-The average fraction of neighbors with the same ability as the node itself when random is 0.34%
-The average fraction of neighbors with the same egg group as the node itself when random is 6.73%
+The average fraction of neighbors with the same typing as the node itself is 6.31%
+The average fraction of neighbors with the same ability as the node itself is 0.83%
+The average fraction of neighbors with the same egg group as the node itself is 9.64%
+The average fraction of neighbors with the same typing as the node itself when random is 3.12%
+The average fraction of neighbors with the same ability as the node itself when random is 0.50%
+The average fraction of neighbors with the same egg group as the node itself when random is 7.00%
 Statistical tests for the three fields:
-Typing: 8.782966134829871e-15
-Abilities: 4.161858077772338e-52
-Egg Groups: 0.30808630519056057
+Typing: 3.6287465066101893e-94
+Abilities: 4.589749553242168e-65
+Egg Groups: 5.418606802720974e-53
 The modularity is 0.15
-There are 6 communities
-The community sizes are [170, 127, 34, 56, 26, 21]
+There are 5 communities
+The community sizes are [157, 75, 78, 102, 22]
 Testing modularity
-The average modularity after double edge swap test is 0.09
-The p-value for the modularity test is 3.585736262431409e-125
+The average modularity after double edge swap test is 0.08
+The p-value for the modularity test is 9.252688839951153e-118

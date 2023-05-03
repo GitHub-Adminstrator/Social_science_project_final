@@ -12,19 +12,19 @@ Dragonite: 502
 Eevee: 485
 Gengar: 473
 The degree assortativity coefficient is -0.16
-The average fraction of neighbors with the same typing as the node itself is 2.76%
-The average fraction of neighbors with the same ability as the node itself is 0.20%
-The average fraction of neighbors with the same egg group as the node itself is 6.69%
-The average fraction of neighbors with the same typing as the node itself when random is 2.60%
-The average fraction of neighbors with the same ability as the node itself when random is 0.33%
-The average fraction of neighbors with the same egg group as the node itself when random is 6.70%
+The average fraction of neighbors with the same typing as the node itself is 4.32%
+The average fraction of neighbors with the same ability as the node itself is 0.70%
+The average fraction of neighbors with the same egg group as the node itself is 8.37%
+The average fraction of neighbors with the same typing as the node itself when random is 2.73%
+The average fraction of neighbors with the same ability as the node itself when random is 0.35%
+The average fraction of neighbors with the same egg group as the node itself when random is 6.66%
 Statistical tests for the three fields:
-Typing: 4.696567681766853e-14
-Abilities: 3.395550792220634e-57
-Egg Groups: 0.8081817951099577
+Typing: 2.684430162892561e-83
+Abilities: 9.676521074342712e-83
+Egg Groups: 3.6667843074679194e-49
 The modularity is 0.20
 There are 5 communities
-The community sizes are [128, 280, 103, 158, 20]
+The community sizes are [132, 265, 105, 167, 20]
 Testing modularity
 The average modularity after double edge swap test is 0.07
-The p-value for the modularity test is 1.101728351972559e-120
+The p-value for the modularity test is 5.441719897099747e-129

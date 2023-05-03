@@ -12,17 +12,17 @@ Dragonite: 639
 Lucario: 634
 Bulbasaur: 626
 The degree assortativity coefficient is -0.10
-The average fraction of neighbors with the same typing as the node itself is 2.76%
-The average fraction of neighbors with the same ability as the node itself is 0.20%
-The average fraction of neighbors with the same egg group as the node itself is 6.69%
-The average fraction of neighbors with the same typing as the node itself when random is 2.58%
+The average fraction of neighbors with the same typing as the node itself is 3.70%
+The average fraction of neighbors with the same ability as the node itself is 0.66%
+The average fraction of neighbors with the same egg group as the node itself is 8.22%
+The average fraction of neighbors with the same typing as the node itself when random is 2.57%
 The average fraction of neighbors with the same ability as the node itself when random is 0.34%
-The average fraction of neighbors with the same egg group as the node itself when random is 6.74%
+The average fraction of neighbors with the same egg group as the node itself when random is 6.73%
 Statistical tests for the three fields:
-Typing: 1.0165987031249706e-14
-Abilities: 3.1314298181667152e-46
-Egg Groups: 0.2771625170315078
-The modularity is 0.21
-There are 6 communities
-The community sizes are [114, 137, 133, 125, 129, 207]
+Typing: 5.0142474569158506e-76
+Abilities: 1.0284155750102187e-87
+Egg Groups: 2.491533577947316e-53
+The modularity is 0.22
+There are 5 communities
+The community sizes are [231, 239, 134, 141, 100]
 Testing modularity

@@ -12,19 +12,19 @@ Chimecho: 279
 Mudkip: 273
 Skitty: 273
 The degree assortativity coefficient is -0.24
-The average fraction of neighbors with the same typing as the node itself is 2.76%
-The average fraction of neighbors with the same ability as the node itself is 0.20%
-The average fraction of neighbors with the same egg group as the node itself is 6.69%
-The average fraction of neighbors with the same typing as the node itself when random is 2.59%
-The average fraction of neighbors with the same ability as the node itself when random is 0.34%
-The average fraction of neighbors with the same egg group as the node itself when random is 6.79%
+The average fraction of neighbors with the same typing as the node itself is 5.57%
+The average fraction of neighbors with the same ability as the node itself is 1.10%
+The average fraction of neighbors with the same egg group as the node itself is 8.23%
+The average fraction of neighbors with the same typing as the node itself when random is 3.40%
+The average fraction of neighbors with the same ability as the node itself when random is 0.61%
+The average fraction of neighbors with the same egg group as the node itself when random is 5.92%
 Statistical tests for the three fields:
-Typing: 2.0985557405393773e-12
-Abilities: 4.2592745670408964e-52
-Egg Groups: 0.05292515269297888
+Typing: 3.2558537148058242e-74
+Abilities: 2.5361751895428097e-71
+Egg Groups: 2.9579901765313573e-53
 The modularity is 0.16
 There are 5 communities
-The community sizes are [141, 29, 44, 70, 79]
+The community sizes are [108, 99, 35, 74, 47]
 Testing modularity
-The average modularity after double edge swap test is 0.09
-The p-value for the modularity test is 4.831732859792831e-131
+The average modularity after double edge swap test is 0.08
+The p-value for the modularity test is 2.2979774576405537e-141

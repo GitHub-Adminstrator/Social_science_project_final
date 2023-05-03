@@ -4,9 +4,12 @@ prev: "/"
 next: network-analysis
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In nulla tellus, tempus sed lobortis quis, venenatis ac ante. Maecenas accumsan augue ultricies metus hendrerit, in ultrices urna fringilla. Suspendisse lobortis egestas magna, sit amet fermentum ligula tincidunt vitae. Suspendisse cursus non dui a vulputate. Cras vestibulum vulputate enim eu placerat. Ut scelerisque semper justo sit amet auctor. Aliquam sit amet iaculis tortor.
+This project uses 2 main data sets.
+Base Pokémon data set (1.1 MB, 1000 rows, 6 variables)
+Episode Plot data set (1 MB, 136 rows, 3 variables)
+The network built from the above has:
 
-> Nulla in justo hendrerit, tincidunt mauris et, porta est. Donec in leo vitae est ultrices dapibus id nec tortor. Maecenas ut ipsum eu nisl cursus facilisis scelerisque eu ex. Aliquam euismod elementum libero, at vehicula ipsum.
+> 677 nodes (pokemon) & 51193 edges (appearance in same episode.) Attributes are: Type, Egg Group, Ability The edges are weighted by the amount of times two Pokémon appear in same episodes.
 
 Nam commodo lorem quis tortor euismod, ut ultrices orci aliquet. Sed eget dui nec sem ullamcorper convallis id nec ante. Aliquam ultricies a massa quis semper. Donec suscipit augue ut sagittis hendrerit. Aliquam erat volutpat. Proin aliquet maximus nibh, id aliquet justo maximus at. Sed accumsan ante id aliquam pellentesque. 
 

@@ -1,0 +1,30 @@
+Analysing the graph for the Unova League season
+The graph has 324 nodes and 12658 edges
+The top ten pokemon with the highest degree are:
+Pikachu: 320
+Axew: 320
+Meowth: 296
+Oshawott: 288
+Pignite: 250
+Pidove: 238
+Snivy: 233
+Pansage: 225
+Deerling: 220
+Patrat: 214
+The degree assortativity coefficient is -0.25
+The average fraction of neighbors with the same typing as the node itself is 2.76%
+The average fraction of neighbors with the same ability as the node itself is 0.20%
+The average fraction of neighbors with the same egg group as the node itself is 6.69%
+The average fraction of neighbors with the same typing as the node itself when random is 2.56%
+The average fraction of neighbors with the same ability as the node itself when random is 0.34%
+The average fraction of neighbors with the same egg group as the node itself when random is 6.77%
+Statistical tests for the three fields:
+Typing: 1.41576296390337e-18
+Abilities: 1.584137596214071e-49
+Egg Groups: 0.10666219728599724
+The modularity is 0.16
+There are 5 communities
+The community sizes are [38, 82, 19, 70, 112]
+Testing modularity
+The average modularity after double edge swap test is 0.08
+The p-value for the modularity test is 9.891264530761489e-135

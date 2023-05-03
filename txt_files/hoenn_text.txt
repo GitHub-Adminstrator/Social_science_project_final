@@ -1,0 +1,30 @@
+Analysing the graph for the Hoenn League season
+The graph has 366 nodes and 15134 edges
+The top ten pokemon with the highest degree are:
+Pikachu: 362
+Meowth: 362
+Wobbuffet: 361
+Seviper: 301
+Beautifly: 290
+Cacnea: 289
+Bulbasaur: 281
+Chimecho: 279
+Mudkip: 273
+Skitty: 273
+The degree assortativity coefficient is -0.24
+The average fraction of neighbors with the same typing as the node itself is 2.76%
+The average fraction of neighbors with the same ability as the node itself is 0.20%
+The average fraction of neighbors with the same egg group as the node itself is 6.69%
+The average fraction of neighbors with the same typing as the node itself when random is 2.59%
+The average fraction of neighbors with the same ability as the node itself when random is 0.34%
+The average fraction of neighbors with the same egg group as the node itself when random is 6.79%
+Statistical tests for the three fields:
+Typing: 2.0985557405393773e-12
+Abilities: 4.2592745670408964e-52
+Egg Groups: 0.05292515269297888
+The modularity is 0.16
+There are 5 communities
+The community sizes are [141, 29, 44, 70, 79]
+Testing modularity
+The average modularity after double edge swap test is 0.09
+The p-value for the modularity test is 4.831732859792831e-131

@@ -1,0 +1,30 @@
+Analysing the graph for the Pokémon Journeys season
+The graph has 698 nodes and 53260 edges
+The top ten pokemon with the highest degree are:
+Pikachu: 688
+Rotom: 663
+Meowth: 576
+Grookey: 568
+Wobbuffet: 560
+Cinderace: 523
+Lucario: 505
+Dragonite: 502
+Eevee: 485
+Gengar: 473
+The degree assortativity coefficient is -0.16
+The average fraction of neighbors with the same typing as the node itself is 2.76%
+The average fraction of neighbors with the same ability as the node itself is 0.20%
+The average fraction of neighbors with the same egg group as the node itself is 6.69%
+The average fraction of neighbors with the same typing as the node itself when random is 2.60%
+The average fraction of neighbors with the same ability as the node itself when random is 0.33%
+The average fraction of neighbors with the same egg group as the node itself when random is 6.70%
+Statistical tests for the three fields:
+Typing: 4.696567681766853e-14
+Abilities: 3.395550792220634e-57
+Egg Groups: 0.8081817951099577
+The modularity is 0.20
+There are 5 communities
+The community sizes are [128, 280, 103, 158, 20]
+Testing modularity
+The average modularity after double edge swap test is 0.07
+The p-value for the modularity test is 1.101728351972559e-120

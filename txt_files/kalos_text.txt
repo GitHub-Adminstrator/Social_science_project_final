@@ -1,0 +1,30 @@
+Analysing the graph for the Kalos League season
+The graph has 439 nodes and 21311 edges
+The top ten pokemon with the highest degree are:
+Pikachu: 433
+Dedenne: 433
+Meowth: 420
+Wobbuffet: 396
+Chespin: 357
+Bunnelby: 347
+Inkay: 339
+Fletchling: 306
+Fennekin: 305
+Froakie: 304
+The degree assortativity coefficient is -0.26
+The average fraction of neighbors with the same typing as the node itself is 2.76%
+The average fraction of neighbors with the same ability as the node itself is 0.20%
+The average fraction of neighbors with the same egg group as the node itself is 6.69%
+The average fraction of neighbors with the same typing as the node itself when random is 2.58%
+The average fraction of neighbors with the same ability as the node itself when random is 0.34%
+The average fraction of neighbors with the same egg group as the node itself when random is 6.73%
+Statistical tests for the three fields:
+Typing: 8.782966134829871e-15
+Abilities: 4.161858077772338e-52
+Egg Groups: 0.30808630519056057
+The modularity is 0.15
+There are 6 communities
+The community sizes are [170, 127, 34, 56, 26, 21]
+Testing modularity
+The average modularity after double edge swap test is 0.09
+The p-value for the modularity test is 3.585736262431409e-125

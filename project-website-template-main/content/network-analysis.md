@@ -28,51 +28,69 @@ If we compare the degree distribution of the network to a random network to the 
 First season of pokémon is Indigo, and here we see the most known pokémons such as Pikachu, Meowth, Bulbasaur, Squirtle and more. The network for season 1 contains 153 nodes and 5250 edges.
 
 <img src="/images/network_3.png" width="400" />
+<img src="/images/season1/degree_plots.png" width="600" />
+<img src="/images/season1/random_distributions.png" width="700" />
 
 #
 #
 # **Season 2 (Orange)**
 
 <img src="/images/network_7.png" width="400" />
+<img src="/images/season2/degree_plots.png" width="600" />
+<img src="/images/season2/random_distributions.png" width="700" />
 
 #
 #
 # **Season 3 (Johto)**
 
 <img src="/images/network_4.png" width="400" />
+<img src="/images/season3/degree_plots.png" width="600" />
+<img src="/images/season3/random_distributions.png" width="700" />
 
 #
 #
 # **Season 4 (Hoenn)**
 
 <img src="/images/network_2.png" width="400" />
+<img src="/images/season4/degree_plots.png" width="600" />
+<img src="/images/season4/random_distributions.png" width="700" />
 
 #
 #
 # **Season 5 (Sinnoh)**
 
 <img src="/images/network_8.png" width="400" />
+<img src="/images/season5/degree_plots.png" width="600" />
+<img src="/images/season5/random_distributions.png" width="700" />
 
 #
 #
 # **Season 6 (Unova)**
 
 <img src="/images/network_9.png" width="400" />
+<img src="/images/season6/degree_plots.png" width="600" />
+<img src="/images/season6/random_distributions.png" width="700" />
 
 #
 #
 # **Season 7 (Kalos)**
 
 <img src="/images/network_6.png" width="400" />
+<img src="/images/season7/degree_plots.png" width="600" />
+<img src="/images/season7/random_distributions.png" width="700" />
 
 #
 #
 # **Season 8 (Alola)**
 
 <img src="/images/network_1.png" width="400" />
+<img src="/images/season8/degree_plots.png" width="600" />
+<img src="/images/season8/random_distributions.png" width="700" />
 
 #
 #
 # **Season 9 (Journeys)**
 
 <img src="/images/network_5.png" width="400" />
+<img src="/images/season9/degree_plots.png" width="600" />
+<img src="/images/season9/random_distributions.png" width="700" />

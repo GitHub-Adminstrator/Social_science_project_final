@@ -15,23 +15,23 @@ The degree assortativity coefficient is -0.23
 The average fraction of neighbors with the same typing as the node itself is 5.74%
 The average fraction of neighbors with the same ability as the node itself is 0.94%
 The average fraction of neighbors with the same egg group as the node itself is 9.30%
-The average fraction of neighbors with the same typing as the node itself when random is 3.40%
-The average fraction of neighbors with the same ability as the node itself when random is 0.61%
-The average fraction of neighbors with the same egg group as the node itself when random is 6.33%
+The average fraction of neighbors with the same typing as the node itself when random is 3.46%
+The average fraction of neighbors with the same ability as the node itself when random is 0.60%
+The average fraction of neighbors with the same egg group as the node itself when random is 6.28%
 Statistical tests for the three fields:
-Typing: 2.23685721243891e-81
-Abilities: 6.56038936686891e-48
-Egg Groups: 1.1109289954136871e-68
-The modularity is 0.13
-There are 6 communities
-The community sizes are [114, 86, 64, 74, 17, 93]
+Typing: 1.958624289264537e-77
+Abilities: 1.4319587663014324e-52
+Egg Groups: 2.2189512625867684e-74
+The modularity is 0.14
+There are 5 communities
+The community sizes are [152, 111, 49, 73, 63]
 The top 5 pokemon in each community are:
 Community 1:
 Shinx
-Budew
-Starly
+Floatzel
 Rattata
-Sunflora
+Teddiursa
+Dodrio
 Community 2:
 Pikachu
 Meowth
@@ -39,29 +39,23 @@ Piplup
 Wobbuffet
 Croagunk
 Community 3:
-Elekid
-Floatzel
-Magikarp
-Onix
-Noctowl
+Sunflora
+Caterpie
+Gyarados
+Geodude
+Jigglypuff
 Community 4:
-Cyndaquil
-Teddiursa
-Heracross
-Glaceon
-Luxray
-Community 5:
-Crawdaunt
-Goldeen
-Surskit
-Corsola
-Seel
-Community 6:
 Staraptor
 Yanmega
-Gliscor
 Empoleon
+Mamoswine
+Cyndaquil
+Community 5:
+Glameow
+Elekid
 Ursaring
+Magikarp
+Budew
 Testing modularity
-The average modularity after double edge swap test is 0.10
-The p-value for the modularity test is 2.06454480151848e-113
+The average modularity after double edge swap test is 0.09
+The p-value for the modularity test is 5.305747137417081e-118

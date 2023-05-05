@@ -15,16 +15,53 @@ The degree assortativity coefficient is -0.26
 The average fraction of neighbors with the same typing as the node itself is 6.31%
 The average fraction of neighbors with the same ability as the node itself is 0.83%
 The average fraction of neighbors with the same egg group as the node itself is 9.64%
-The average fraction of neighbors with the same typing as the node itself when random is 3.01%
-The average fraction of neighbors with the same ability as the node itself when random is 0.52%
-The average fraction of neighbors with the same egg group as the node itself when random is 6.97%
+The average fraction of neighbors with the same typing as the node itself when random is 3.11%
+The average fraction of neighbors with the same ability as the node itself when random is 0.54%
+The average fraction of neighbors with the same egg group as the node itself when random is 7.08%
 Statistical tests for the three fields:
-Typing: 1.0667687462044605e-94
-Abilities: 8.404628847480309e-60
-Egg Groups: 1.368189435615581e-53
-The modularity is 0.15
-There are 4 communities
-The community sizes are [66, 81, 125, 162]
+Typing: 1.5906983777807297e-92
+Abilities: 7.487819881326432e-52
+Egg Groups: 1.089762462107294e-53
+The modularity is 0.14
+There are 6 communities
+The community sizes are [100, 82, 31, 16, 108, 97]
+The top 5 pokemon in each community are:
+Community 1:
+Pikachu
+Dedenne
+Meowth
+Wobbuffet
+Chespin
+Community 2:
+Fletchling
+Marill
+Furfrou
+Skitty
+Smeargle
+Community 3:
+Panpour
+Pidgeotto
+Swablu
+Bulbasaur
+Espurr
+Community 4:
+Staravia
+Ursaring
+Skarmory
+Butterfree
+Altaria
+Community 5:
+Hoppip
+Helioptile
+Oddish
+Watchog
+Sentret
+Community 6:
+Luxray
+Sylveon
+Greninja
+Swanna
+Talonflame
 Testing modularity
-The average modularity after double edge swap test is 0.09
-The p-value for the modularity test is 1.3079962772837075e-123
+The average modularity after double edge swap test is 0.08
+The p-value for the modularity test is 2.2730073183601502e-121

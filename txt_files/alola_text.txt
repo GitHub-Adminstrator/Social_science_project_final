@@ -15,16 +15,47 @@ The degree assortativity coefficient is -0.26
 The average fraction of neighbors with the same typing as the node itself is 5.33%
 The average fraction of neighbors with the same ability as the node itself is 0.86%
 The average fraction of neighbors with the same egg group as the node itself is 9.95%
-The average fraction of neighbors with the same typing as the node itself when random is 2.88%
-The average fraction of neighbors with the same ability as the node itself when random is 0.47%
-The average fraction of neighbors with the same egg group as the node itself when random is 6.81%
+The average fraction of neighbors with the same typing as the node itself when random is 2.83%
+The average fraction of neighbors with the same ability as the node itself when random is 0.46%
+The average fraction of neighbors with the same egg group as the node itself when random is 6.79%
 Statistical tests for the three fields:
-Typing: 4.435599236080391e-91
-Abilities: 4.3925756261798763e-75
-Egg Groups: 9.307290214301027e-69
-The modularity is 0.12
-There are 6 communities
-The community sizes are [28, 183, 88, 39, 67, 47]
+Typing: 5.423749387116477e-96
+Abilities: 2.1671103746908964e-77
+Egg Groups: 1.3292357892948626e-70
+The modularity is 0.13
+There are 5 communities
+The community sizes are [164, 86, 94, 43, 65]
+The top 5 pokemon in each community are:
+Community 1:
+Pikachu
+Rotom
+Togedemaru
+Vulpix
+Turtonator
+Community 2:
+Salandit
+Yungoos
+Raticate
+Zubat
+Comfey
+Community 3:
+Growlithe
+Slowpoke
+Wingull
+Bounsweet
+Poliwag
+Community 4:
+Psyduck
+Jigglypuff
+Sudowoodo
+Boldore
+Pikipek
+Community 5:
+Grubbin
+Butterfree
+Spearow
+Raichu
+Persian
 Testing modularity
-The average modularity after double edge swap test is 0.11
-The p-value for the modularity test is 5.792260862742635e-26
+The average modularity after double edge swap test is 0.12
+The p-value for the modularity test is 1.8655213306950164e-19

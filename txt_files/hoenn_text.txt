@@ -15,47 +15,47 @@ The degree assortativity coefficient is -0.24
 The average fraction of neighbors with the same typing as the node itself is 5.57%
 The average fraction of neighbors with the same ability as the node itself is 1.10%
 The average fraction of neighbors with the same egg group as the node itself is 8.23%
-The average fraction of neighbors with the same typing as the node itself when random is 3.38%
-The average fraction of neighbors with the same ability as the node itself when random is 0.58%
-The average fraction of neighbors with the same egg group as the node itself when random is 5.91%
+The average fraction of neighbors with the same typing as the node itself when random is 3.42%
+The average fraction of neighbors with the same ability as the node itself when random is 0.57%
+The average fraction of neighbors with the same egg group as the node itself when random is 6.00%
 Statistical tests for the three fields:
-Typing: 4.68233874070139e-75
-Abilities: 1.2385915039833265e-80
-Egg Groups: 2.1564033116857084e-61
-The modularity is 0.15
+Typing: 2.485683678074901e-74
+Abilities: 5.665403241510754e-78
+Egg Groups: 1.5345038776071025e-63
+The modularity is 0.16
 There are 5 communities
-The community sizes are [150, 88, 43, 64, 18]
+The community sizes are [122, 22, 54, 91, 74]
 The top 5 pokemon in each community are:
 Community 1:
 Pikachu
 Meowth
 Wobbuffet
 Seviper
-Cacnea
+Beautifly
 Community 2:
-Marill
-Sunflora
+Poochyena
+Mightyena
+Dugtrio
+Murkrow
+Golbat
+Community 3:
 Oddish
 Skiploom
-Poochyena
-Community 3:
-Beautifly
-Bulbasaur
-Chimecho
-Skitty
-Combusken
+Eevee
+Hoppip
+Bellossom
 Community 4:
-Snorunt
-Munchlax
-Teddiursa
-Roselia
-Swampert
+Chimecho
+Torkoal
+Grovyle
+Swellow
+Shroomish
 Community 5:
-Mightyena
-Camerupt
-Dugtrio
-Groudon
-Duskull
+Bulbasaur
+Combusken
+Marill
+Snorunt
+Sunflora
 Testing modularity
 The average modularity after double edge swap test is 0.09
-The p-value for the modularity test is 1.2515825352822575e-134
+The p-value for the modularity test is 1.5336289198773047e-147

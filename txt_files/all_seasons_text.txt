@@ -16,40 +16,40 @@ The average fraction of neighbors with the same typing as the node itself is 3.7
 The average fraction of neighbors with the same ability as the node itself is 0.66%
 The average fraction of neighbors with the same egg group as the node itself is 8.22%
 The average fraction of neighbors with the same typing as the node itself when random is 2.58%
-The average fraction of neighbors with the same ability as the node itself when random is 0.35%
-The average fraction of neighbors with the same egg group as the node itself when random is 6.77%
+The average fraction of neighbors with the same ability as the node itself when random is 0.34%
+The average fraction of neighbors with the same egg group as the node itself when random is 6.70%
 Statistical tests for the three fields:
-Typing: 5.629764929077328e-74
-Abilities: 1.1802146572552892e-89
-Egg Groups: 9.621827802002698e-51
+Typing: 1.4797516896821459e-75
+Abilities: 1.8335266022289483e-82
+Egg Groups: 1.400685354527744e-51
 The modularity is 0.21
 There are 5 communities
-The community sizes are [256, 191, 138, 138, 122]
+The community sizes are [208, 132, 249, 138, 118]
 The top 5 pokemon in each community are:
 Community 1:
 Pikachu
 Meowth
 Wobbuffet
-Psyduck
-Bulbasaur
+Piplup
+Skitty
 Community 2:
-Butterfree
-Oddish
-Gengar
-Caterpie
-Magnemite
+Sandile
+Oshawott
+Patrat
+Scraggy
+Lilligant
 Community 3:
+Psyduck
+Dragonite
+Bulbasaur
+Snorlax
+Butterfree
+Community 4:
 Rotom
 Eevee
 Charizard
 Growlithe
 Vulpix
-Community 4:
-Dragonite
-Sandile
-Oshawott
-Patrat
-Scraggy
 Community 5:
 Lucario
 Marill

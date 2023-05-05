@@ -15,16 +15,41 @@ The degree assortativity coefficient is -0.25
 The average fraction of neighbors with the same typing as the node itself is 4.40%
 The average fraction of neighbors with the same ability as the node itself is 0.69%
 The average fraction of neighbors with the same egg group as the node itself is 11.44%
-The average fraction of neighbors with the same typing as the node itself when random is 3.38%
-The average fraction of neighbors with the same ability as the node itself when random is 0.60%
-The average fraction of neighbors with the same egg group as the node itself when random is 8.28%
+The average fraction of neighbors with the same typing as the node itself when random is 3.32%
+The average fraction of neighbors with the same ability as the node itself when random is 0.59%
+The average fraction of neighbors with the same egg group as the node itself when random is 8.46%
 Statistical tests for the three fields:
-Typing: 1.4636714153361443e-45
-Abilities: 6.009365188296854e-21
-Egg Groups: 2.276607886912572e-55
+Typing: 2.0188741652756676e-51
+Abilities: 1.0519221490415776e-20
+Egg Groups: 8.36769937758013e-52
 The modularity is 0.16
-There are 5 communities
-The community sizes are [63, 82, 50, 62, 64]
+There are 4 communities
+The community sizes are [67, 83, 116, 55]
+The top 5 pokemon in each community are:
+Community 1:
+Pidove
+Deerling
+Patrat
+Swanna
+Audino
+Community 2:
+Pikachu
+Axew
+Meowth
+Oshawott
+Pignite
+Community 3:
+Amoonguss
+Dragonite
+Frillish
+Charizard
+Boldore
+Community 4:
+Watchog
+Beartic
+Leavanny
+Palpitoad
+Zebstrika
 Testing modularity
 The average modularity after double edge swap test is 0.08
-The p-value for the modularity test is 3.008431361129119e-140
+The p-value for the modularity test is 2.1526995479890866e-139

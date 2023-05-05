@@ -15,16 +15,47 @@ The degree assortativity coefficient is -0.24
 The average fraction of neighbors with the same typing as the node itself is 5.57%
 The average fraction of neighbors with the same ability as the node itself is 1.10%
 The average fraction of neighbors with the same egg group as the node itself is 8.23%
-The average fraction of neighbors with the same typing as the node itself when random is 3.40%
-The average fraction of neighbors with the same ability as the node itself when random is 0.61%
-The average fraction of neighbors with the same egg group as the node itself when random is 5.92%
+The average fraction of neighbors with the same typing as the node itself when random is 3.38%
+The average fraction of neighbors with the same ability as the node itself when random is 0.58%
+The average fraction of neighbors with the same egg group as the node itself when random is 5.91%
 Statistical tests for the three fields:
-Typing: 3.2558537148058242e-74
-Abilities: 2.5361751895428097e-71
-Egg Groups: 2.9579901765313573e-53
-The modularity is 0.16
+Typing: 4.68233874070139e-75
+Abilities: 1.2385915039833265e-80
+Egg Groups: 2.1564033116857084e-61
+The modularity is 0.15
 There are 5 communities
-The community sizes are [108, 99, 35, 74, 47]
+The community sizes are [150, 88, 43, 64, 18]
+The top 5 pokemon in each community are:
+Community 1:
+Pikachu
+Meowth
+Wobbuffet
+Seviper
+Cacnea
+Community 2:
+Marill
+Sunflora
+Oddish
+Skiploom
+Poochyena
+Community 3:
+Beautifly
+Bulbasaur
+Chimecho
+Skitty
+Combusken
+Community 4:
+Snorunt
+Munchlax
+Teddiursa
+Roselia
+Swampert
+Community 5:
+Mightyena
+Camerupt
+Dugtrio
+Groudon
+Duskull
 Testing modularity
-The average modularity after double edge swap test is 0.08
-The p-value for the modularity test is 2.2979774576405537e-141
+The average modularity after double edge swap test is 0.09
+The p-value for the modularity test is 1.2515825352822575e-134

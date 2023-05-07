@@ -47,7 +47,7 @@ If we compare the degree distribution of the network to a random network to the 
 
 <img src="/images/random_distributions_all.png" width="700" />
 
-The All seasons network had 5 communities with sizes [208, 132, 249, 138, 118]. Modularity of 0.21, however, double edge swap was infeasible to perform due to the number of edges in this graph. This is unfortunate.
+The All seasons network had 5 communities with sizes [230, 129, 233, 136, 117]. Modularity of 0.22, however, double edge swap was infeasible to perform due to the number of edges in this graph. This is unfortunate.
 
 #
 #
@@ -64,7 +64,7 @@ By looking at the random distribution plot for the Indigo season it is obvious t
 
 <img src="/images/season1/random_distributions.png" width="700" />
 
-Indigo League has 4 communities with sizes [32, 36, 53, 30]. The modularity for this partitioning is 0.1, and this is found to be significantly different than the average modularity of 0.07 when links between nodes are shuffled.
+Indigo League has 4 communities with sizes [49, 40, 33, 29]. The modularity for this partitioning is 0.1, and this is found to be significantly different than the average modularity of 0.08 when links between nodes are shuffled.
 
 <img src="/images/season1/modularity_distribution.png" width="400" />
 
@@ -83,7 +83,7 @@ By looking at the random distribution plot for the Orange season it is obvious t
 
 <img src="/images/season2/random_distributions.png" width="700" />
 
-Orange League has 4 communites with sizes [29, 43, 39, 21] with a modularity of 0.11. Double edge swap yields average modularity of 0.07. This shows a significant difference.
+Orange League has 4 communites with sizes [26, 38, 18, 20, 30] with a modularity of 0.11. Double edge swap yields average modularity of 0.06. This shows a significant difference.
 
 <img src="/images/season2/modularity_distribution.png" width="400" />
 
@@ -102,7 +102,7 @@ By looking at the random distribution plot for the Orange season it is obvious t
 
 <img src="/images/season3/random_distributions.png" width="700" />
 
-Orange League has 4 communites with sizes [87, 81, 43, 43] with a modularity of 0.11. Double edge swap yields average modularity of 0.08. This shows a significant difference.
+Orange League has 4 communites with sizes [97, 65, 51, 41] with a modularity of 0.11. Double edge swap yields average modularity of 0.08. This shows a significant difference.
 
 <img src="/images/season3/modularity_distribution.png" width="400" />
 
@@ -122,7 +122,7 @@ By looking at the random distribution plot for the Hoenn season it is obvious th
 
 <img src="/images/season4/random_distributions.png" width="700" />
 
-Hoenn League has 5 communities with sizes [122, 22, 54, 91, 74] with a Modularity of 0.16, and double edge swap yields average modularity of 0.09. This shows a significant difference.
+Hoenn League has 5 communities with sizes [112, 69, 26, 18, 55, 83] with a Modularity of 0.16, and double edge swap yields average modularity of 0.09. This shows a significant difference.
 
 <img src="/images/season4/modularity_distribution.png" width="400" />
 
@@ -141,7 +141,7 @@ By looking at the random distribution plot for the Sinnoh season it is obvious t
 
 <img src="/images/season5/random_distributions.png" width="700" />
 
-Sinnoh League has 5 communities with sizes [152, 111, 49, 73, 63] with a Modularity of 0.14, and double edge swap yields average modularity of 0.09. This shows a significant difference.
+Sinnoh League has 5 communities with sizes [97, 21, 74, 90, 131, 35] with a Modularity of 0.13, and double edge swap yields average modularity of 0.09. This shows a significant difference.
 
 <img src="/images/season5/modularity_distribution.png" width="400" />
 
@@ -160,7 +160,7 @@ By looking at the random distribution plot for the Unova season it is obvious th
 
 <img src="/images/season6/random_distributions.png" width="700" />
 
-Unova League has 4 communities with sizes [88, 112, 19, 102] with a Modularity of 0.16, and double edge swap yields average modularity of 0.08. This shows a significant difference.
+Unova League has 4 communities with sizes [81, 88, 36, 52, 64] with a Modularity of 0.16, and double edge swap yields average modularity of 0.08. This shows a significant difference.
 
 <img src="/images/season6/modularity_distribution.png" width="400" />
 
@@ -179,7 +179,7 @@ By looking at the random distribution plot for the Kalos season it is obvious th
 
 <img src="/images/season7/random_distributions.png" width="700" />
 
-Kalos League has 4 communities with sizes [88, 112, 19, 102]. Modularity of 0.16, and double edge swap yields average modularity of 0.08. Significant difference.
+Kalos League has 4 communities with sizes [174, 80, 74, 106]. Modularity of 0.15, and double edge swap yields average modularity of 0.09. Significant difference.
 
 <img src="/images/season7/modularity_distribution.png" width="400" />
 
@@ -198,7 +198,7 @@ By looking at the random distribution plot for the Alola season it is obvious th
 
 <img src="/images/season8/random_distributions.png" width="700" />
 
-Alola League has 5 communities with sizes [164, 86, 94, 43, 65] with a Modularity of 0.13, and double edge swap yields average modularity of 0.12. This shows a significant difference.
+Alola League has 5 communities with sizes [154, 87, 91, 46, 74] with a Modularity of 0.13, and double edge swap yields average modularity of 0.12. This shows a significant difference.
 
 <img src="/images/season8/modularity_distribution.png" width="400" />
 
@@ -217,6 +217,6 @@ By looking at the random distribution plot for the Journeys season it is obvious
 
 <img src="/images/season9/random_distributions.png" width="700" />
 
-Pokémon Journeys has 4 communities with sizes [208, 303, 156, 22] with a Modularity of 0.19, and double edge swap yields average modularity of 0.07. This shows a significant difference.
+Pokémon Journeys has 4 communities with sizes [139, 211, 152, 187] with a Modularity of 0.18, and double edge swap yields average modularity of 0.06. This shows a significant difference.
 
 <img src="/images/season9/modularity_distribution.png" width="400" />

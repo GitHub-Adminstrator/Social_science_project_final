@@ -18,3 +18,15 @@ With the data provided from **PokéAPI** and **Bulbapedia**, an investigation of
 ## Wordcloud of all seasons:
 
 <img src="wordclouds/All_seasons_mask_coloring.png" width="500" />
+
+#
+#
+## Research questions:
+
+Essentially, this project can be boiled down to the following **research questions**:
+
+1. What characterizes the network for each season of the Pokémon Anime.
+
+2. Are there any similarities or differences between the various seasons and if so, what are these?
+
+3. How do the seasons themselves separate each other w.r.t. their plots, and are there any similarities or differences between seasons?

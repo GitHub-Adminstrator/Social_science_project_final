@@ -4,8 +4,6 @@ prev: network-analysis
 next: "discussion"
 ---
 
-## Seasons: [1](#season-1) [2](#season-2) [3](#season-3) [4](#season-4) [5](#season-5) [6](#season-6) [7](#season-7) [8](#season-8) [9](#season-9) [All](#all-seasons)
-
 In this section we will be analyzing the text of the Pokémon episodes for each season. We will be looking at the most
 common words for each season using word clouds.
 
@@ -53,9 +51,9 @@ discriminative or different for a season.
 
 Here we will define the process. We will do this by calculating counts for each season for each word, which we will have
 in dicts (already calculated in the previous cell), and then we will perform the analysis, which is these steps:
-1. Define a set of words $W_{current}$ that we want to analyze  for a season
-2. Loop through all other seasons and for each season, take top $K = 100$ words with the highest score , defined as $W_{topK}$
-3. For each word $W_{topK}$ remove it from $W_{current}$ if it is present in $W_{current}$
+1. Define a set of words `W_current` that we want to analyze  for a season
+2. Loop through all other seasons and for each season, take top `K = 100` words with the highest score , defined as `W_topK`
+3. For each word `W_topK` remove it from `W_current` if it is present in `W_current`
 
 This makes sure, that the top words we analyze for a season, are not present in the other seasons. This is done to make
 sure that we only analyze words that are discriminative or different for a season.

@@ -5,8 +5,7 @@ relativeURLs = true
 theme = "theme" 
 [params]
     authors = ["Jonas Hoffmann (s204071)", "Mathias B. Sørensen (s194366)", "Joachim S. Andersson (s204096)"]
-    notebook = "explainer-notebook.html"
-    data = "https://drive.google.com"
+    notebook = "/explainer-notebook.html/"
     github = "https://github.com/GitHub-Adminstrator/Social_science_project_final.git"
     [[params.nav]]
         label = "Data"

@@ -17,4 +17,7 @@ theme = "theme"
     [[params.nav]]
         label = "Text"
         link = "/text-analysis"
+    [[params.nav]]
+        label = "Discussion"
+        link = "/discussion"
 

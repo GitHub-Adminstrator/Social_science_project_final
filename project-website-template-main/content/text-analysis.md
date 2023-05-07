@@ -9,10 +9,10 @@ next: "discussion"
 In this section we will be analyzing the text of the Pokémon episodes for each season. We will be looking at the most
 common words for each season using word clouds.
 
-# Concepts used
+# **Concepts used**
 The concepts used in the analysis will be described in the sections below.
 
-## Tokenization
+## **Tokenization**
 Tokenization is the process of splitting text into smaller pieces, called tokens. This is done to make the text easier
 to analyze. In this project we will be using the `nltk` library to tokenize the text.
 
@@ -29,7 +29,7 @@ This tokenizer makes sure, that we have all the words in same format. Moreover, 
 quite a lot of Japanese spread throughout, and to combat that (since we cannot analyse Japanese text), we convert all
 the text to ASCII, which only has A-Z. This makes sure, that we get understandable collocations, wordclouds etc.
 
-## Zipf's law
+## **Zipf's law**
 Zipf's law describes the frequency of words in a text. It states that the frequency of a word is inversely proportional
 to its rank in the frequency table. This means that the most frequent word will occur approximately twice as often as
 the second most frequent word, three times as often as the third most frequent word, etc.
@@ -37,7 +37,7 @@ the second most frequent word, three times as often as the third most frequent w
 This means that we use a log-log plot to visualize the frequency of words. This is done by taking the log of the rank
 and the log of the frequency. This is done to make the plot more linear, since the frequency of words is not linear.
 
-## Bigrams/Collocation and chi-squared test
+## **Bigrams/Collocation and chi-squared test**
 Bigrams are pairs of words that occur together in a text. Collocations are bigrams that occur more often than expected.
 We're simply creating these collocations by using the tokens and their neighbour, thus, a bigram is itself and its
 previous and next neighbour.
@@ -46,7 +46,7 @@ We will be using the chi-squared test to find the collocations. This means that 
 for each bigram first, and then use that to calculate the p-value. The threshold of significant that we're going to use
 will be 0.001. This means that we will only be looking at collocations that are significant at the 0.1% level.
 
-## Discriminative word analysis
+## **Discriminative word analysis**
 Discriminative word analysis is a self invented term, which we use to describe the process of removing words from a set
 of words, if they are present in another set of words. This is done to make sure that we only analyze words that are
 discriminative or different for a season.
@@ -60,15 +60,15 @@ in dicts (already calculated in the previous cell), and then we will perform the
 This makes sure, that the top words we analyze for a season, are not present in the other seasons. This is done to make
 sure that we only analyze words that are discriminative or different for a season.
 
-## Wordclouds
+## **Wordclouds**
 Finally, we will create wordclouds from the tokens. This is done by taking the tokens and their frequency and then
 creating a wordcloud from that. We will be using the `wordcloud` library to create the wordclouds.
 
-# Analysis
+# **Analysis**
 After we have introduced the concepts, we will now perform the analysis. It will be split into each season, and then
 finally a combined analysis of all seasons.
 
-## Zipf's law
+## **Zipf's law**
 We will start by examining if our text corpus follows Zipf's law. We will do this by plotting the frequency of words:
 
 ![Zipf's law per season](/zipf/per_season.png)
@@ -81,7 +81,7 @@ Now we will plot the frequency of words for all seasons combined:
 
 Finally, we can see for all seasons combined, that the data also follows Zipf's law.
 
-## Bigrams/Collocation and chi-squared test
+## **Bigrams/Collocation and chi-squared test**
 Now we will look at the collocations for each season. First we will look at a summary of the number of bigrams:
 
 | Season           | Number of bigrams with p-value < 0.001 | Number of bigrams | Ratio  |
@@ -100,7 +100,7 @@ As one can see in the table, the ratio of bigrams with p-value < 0.001 is pretty
 there are a lot of collocations in the text. This is probably due to the fact that the text is a plot from a TV show,
 which means that there are a lot of repeated words and phrases.
 
-### Indigo League
+### **Indigo League**
 (proof, victory),
 (etiquette, spying),
 (capacity, extra),
@@ -117,7 +117,7 @@ because the characters are trying to prove themselves to be the best. Even thoug
 such as "rail, cart", there are also some nonsensical collocations, such as "cares, nine". They do not seem to
 mean anything.
 
-### Orange Islands
+### **Orange Islands**
 (port, located),
 (targets, equal),
 (words, reminisces),
@@ -134,7 +134,7 @@ the characters are checking their pokedex (A pokedex is a small computer on whic
 pokemons), or "team, rocket", which is the name of the team of the antagonists. However, there are also some
 nonsensical collocations, such as
 
-### Johto League
+### **Johto League**
 (host, guest)
 (tension, teams),
 (smiles, encouragingly),
@@ -150,7 +150,7 @@ In _Johto League_ we can see some of the victory and battling themes are quite o
 For example "tension, teams" is a collocation, which is probably due to the fact that the characters are battling
 and have tense interactions and "bask, success" is also another collocation showing the victory theme.
 
-### Pokémon Journeys
+### **Pokémon Journeys**
 (contains, transparent),
 (extremely, tasty),
 (awaken, slumbering),
@@ -168,7 +168,7 @@ nonsensical collocations, such as "contains, transparent" and "swell, eaters".
 But for this season, it seems that there is also a theme of food, since there are some collocations related to
 food such as "extremely, tasty" and "swell, eaters".
 
-### Hoenn League
+### **Hoenn League**
 (arrive, scene),
 (crooked, salesman),
 (results, announced),
@@ -184,7 +184,7 @@ Most of the collocations for Hoenn are quite nonsensical, such as "albert, einst
 do not seem to have anything to do with Pokémon or its themes. However, we can see a theme of competition in the
 collocation "results, announced".
 
-### Kalos League
+### **Kalos League**
 (sign, respect),
 (excites, hugely),
 (destructive, destruction),
@@ -199,7 +199,7 @@ collocation "results, announced".
 For this season we cannot really extract many themes, besides maybe destruction from "destructive, destruction",
 since the rest of the do not make any sense without context.
 
-### Unova League
+### **Unova League**
 (recoiling, presence),
 (brushes, hind),
 (mamoswine, overcame),
@@ -214,7 +214,7 @@ since the rest of the do not make any sense without context.
 In _Unova League_ we see the theme of victory and competition in the collocation "matchups, announced". However,
 there are also the collocations "recoiling, presence" and "abyssal, ruins", which seem to be quite "dark" words.
 
-### Alola League
+### **Alola League**
 (impressive, offense),
 (predicts, chances),
 (splits, merges),
@@ -229,7 +229,7 @@ there are also the collocations "recoiling, presence" and "abyssal, ruins", whic
 The first collocation which is interesting is "impressive, offense", which is probably from the theme of battling
 with Pokémon, where one trainer is complementing the other trainer's Pokémon.
 
-### Sinnoh League
+### **Sinnoh League**
 (awkward, interview),
 (obvious, disdain),
 (blank, range),
@@ -244,7 +244,7 @@ with Pokémon, where one trainer is complementing the other trainer's Pokémon.
 In _Sinnoh League_ we can see the theme of rivalry in the collocation "cease, rivalry", which is quite obvious in
 this season.
 
-### Collocation analysis conclusion
+### **Collocation analysis conclusion**
 From the collocation analysis we can see that there are some themes which are quite obvious in the collocations,
 such as victory, battling, rivalry and competition. However, throughout the seasons there are quite a lot of 
 collocations that does not make sense.
@@ -252,33 +252,33 @@ collocations that does not make sense.
 Overall, we can say that the collocation analysis provided some confirmation in the themes of the seasons, but
 it is definitely not a perfect method for extracting themes from the text.
 
-## Wordclouds
-### Indigo League
+## **Wordclouds**
+### **Indigo League**
 ![Indigo League - wordcloud](/wordclouds/Indigo_League_mask_coloring_discriminatory.png)
 
-### Orange Islands
+### **Orange Islands**
 ![Orange Islands - wordcloud](/wordclouds/Orange_Islands_mask_coloring_discriminatory.png)
 
-### Johto League
+### **Johto League**
 ![Johto League - wordcloud](/wordclouds/Johto_League_mask_coloring_discriminatory.png)
 
-### Pokémon Journeys
+### **Pokémon Journeys**
 ![Pokémon Journeys - wordcloud](/wordclouds/Pokemon_Journeys_mask_coloring_discriminatory.png)
 
-### Hoenn League
+### **Hoenn League**
 ![Hoenn League - wordcloud](/wordclouds/Hoenn_League_mask_coloring_discriminatory.png)
 
-### Kalos League
+### **Kalos League**
 ![Kalos League - wordcloud](/wordclouds/Kalos_League_mask_coloring_discriminatory.png)
 
-### Unova League
+### **Unova League**
 ![Unova League - wordcloud](/wordclouds/Unova_League_mask_coloring_discriminatory.png)
 
-### Alola League
+### **Alola League**
 ![Alola League - wordcloud](/wordclouds/Alola_League_mask_coloring_discriminatory.png)
 
-### Sinnoh League
+### **Sinnoh League**
 ![Sinnoh League - wordcloud](/wordclouds/Sinnoh_League_mask_coloring_discriminatory.png)
 
-### All seasons
+### **All seasons**
 ![All seasons - wordcloud](/wordclouds/All_seasons_mask_coloring.png)

@@ -15,47 +15,47 @@ The degree assortativity coefficient is -0.24
 The average fraction of neighbors with the same typing as the node itself is 5.57%
 The average fraction of neighbors with the same ability as the node itself is 1.10%
 The average fraction of neighbors with the same egg group as the node itself is 8.23%
-The average fraction of neighbors with the same typing as the node itself when random is 3.42%
-The average fraction of neighbors with the same ability as the node itself when random is 0.57%
-The average fraction of neighbors with the same egg group as the node itself when random is 6.00%
+The average fraction of neighbors with the same typing as the node itself when random is 3.41%
+The average fraction of neighbors with the same ability as the node itself when random is 0.58%
+The average fraction of neighbors with the same egg group as the node itself when random is 5.92%
 Statistical tests for the three fields:
-Typing: 2.485683678074901e-74
-Abilities: 5.665403241510754e-78
-Egg Groups: 1.5345038776071025e-63
+Typing: 6.07527644939158e-72
+Abilities: 3.295584692321103e-81
+Egg Groups: 5.220323069284495e-57
 The modularity is 0.16
 There are 5 communities
-The community sizes are [122, 22, 54, 91, 74]
+The community sizes are [84, 24, 117, 67, 71]
 The top 5 pokemon in each community are:
 Community 1:
+Chimecho
+Torkoal
+Grovyle
+Swellow
+Swampert
+Community 2:
+Poochyena
+Zigzagoon
+Tauros
+Mightyena
+Camerupt
+Community 3:
 Pikachu
 Meowth
 Wobbuffet
 Seviper
 Beautifly
-Community 2:
-Poochyena
-Mightyena
-Dugtrio
-Murkrow
-Golbat
-Community 3:
-Oddish
-Skiploom
-Eevee
-Hoppip
-Bellossom
 Community 4:
-Chimecho
-Torkoal
-Grovyle
-Swellow
-Shroomish
-Community 5:
 Bulbasaur
 Combusken
-Marill
 Snorunt
+Munchlax
+Roselia
+Community 5:
+Marill
 Sunflora
+Teddiursa
+Oddish
+Sandshrew
 Testing modularity
 The average modularity after double edge swap test is 0.09
-The p-value for the modularity test is 1.5336289198773047e-147
+The p-value for the modularity test is 3.4612849083918613e-133

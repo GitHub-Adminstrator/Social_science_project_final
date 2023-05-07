@@ -15,47 +15,53 @@ The degree assortativity coefficient is -0.23
 The average fraction of neighbors with the same typing as the node itself is 5.74%
 The average fraction of neighbors with the same ability as the node itself is 0.94%
 The average fraction of neighbors with the same egg group as the node itself is 9.30%
-The average fraction of neighbors with the same typing as the node itself when random is 3.46%
-The average fraction of neighbors with the same ability as the node itself when random is 0.60%
-The average fraction of neighbors with the same egg group as the node itself when random is 6.28%
+The average fraction of neighbors with the same typing as the node itself when random is 3.43%
+The average fraction of neighbors with the same ability as the node itself when random is 0.62%
+The average fraction of neighbors with the same egg group as the node itself when random is 6.29%
 Statistical tests for the three fields:
-Typing: 1.958624289264537e-77
-Abilities: 1.4319587663014324e-52
-Egg Groups: 2.2189512625867684e-74
-The modularity is 0.14
-There are 5 communities
-The community sizes are [152, 111, 49, 73, 63]
+Typing: 1.680060338035742e-79
+Abilities: 9.846927572305448e-52
+Egg Groups: 5.118642823888447e-75
+The modularity is 0.13
+There are 6 communities
+The community sizes are [48, 47, 99, 44, 107, 103]
 The top 5 pokemon in each community are:
 Community 1:
-Shinx
-Floatzel
-Rattata
-Teddiursa
-Dodrio
+Glameow
+Steelix
+Bidoof
+Wooper
+Misdreavus
 Community 2:
+Staraptor
+Gliscor
+Empoleon
+Ursaring
+Grotle
+Community 3:
+Shinx
+Budew
+Starly
+Rattata
+Sunflora
+Community 4:
+Gastrodon
+Crawdaunt
+Shellos
+Rapidash
+Plusle
+Community 5:
+Chansey
+Elekid
+Floatzel
+Magikarp
+Cyndaquil
+Community 6:
 Pikachu
 Meowth
 Piplup
 Wobbuffet
 Croagunk
-Community 3:
-Sunflora
-Caterpie
-Gyarados
-Geodude
-Jigglypuff
-Community 4:
-Staraptor
-Yanmega
-Empoleon
-Mamoswine
-Cyndaquil
-Community 5:
-Glameow
-Elekid
-Ursaring
-Magikarp
-Budew
 Testing modularity
-The average modularity after double edge swap test is 0.09
-The p-value for the modularity test is 5.305747137417081e-118
+The average modularity after double edge swap test is 0.10
+The p-value for the modularity test is 1.934274973748145e-113

@@ -15,16 +15,16 @@ The degree assortativity coefficient is -0.23
 The average fraction of neighbors with the same typing as the node itself is 5.74%
 The average fraction of neighbors with the same ability as the node itself is 1.00%
 The average fraction of neighbors with the same egg group as the node itself is 8.89%
-The average fraction of neighbors with the same typing as the node itself when random is 3.86%
+The average fraction of neighbors with the same typing as the node itself when random is 3.83%
 The average fraction of neighbors with the same ability as the node itself when random is 0.73%
 The average fraction of neighbors with the same egg group as the node itself when random is 6.94%
 Statistical tests for the three fields:
-Typing: 1.4004341673040102e-60
-Abilities: 1.864577646977877e-42
-Egg Groups: 7.226996046401159e-44
+Typing: 8.934415147221326e-60
+Abilities: 1.8982903704758495e-42
+Egg Groups: 2.26055662629195e-44
 The modularity is 0.11
 There are 4 communities
-The community sizes are [87, 81, 43, 43]
+The community sizes are [88, 77, 39, 50]
 The top 5 pokemon in each community are:
 Community 1:
 Pikachu
@@ -37,7 +37,7 @@ Bellsprout
 Chansey
 Machoke
 Oddish
-Scyther
+Quagsire
 Community 3:
 Poliwhirl
 Psyduck
@@ -52,4 +52,4 @@ Rattata
 Blastoise
 Testing modularity
 The average modularity after double edge swap test is 0.08
-The p-value for the modularity test is 2.2835705295090862e-74
+The p-value for the modularity test is 8.439127014237153e-67

@@ -15,16 +15,16 @@ The degree assortativity coefficient is -0.26
 The average fraction of neighbors with the same typing as the node itself is 6.31%
 The average fraction of neighbors with the same ability as the node itself is 0.83%
 The average fraction of neighbors with the same egg group as the node itself is 9.64%
-The average fraction of neighbors with the same typing as the node itself when random is 3.11%
-The average fraction of neighbors with the same ability as the node itself when random is 0.54%
-The average fraction of neighbors with the same egg group as the node itself when random is 7.08%
+The average fraction of neighbors with the same typing as the node itself when random is 3.09%
+The average fraction of neighbors with the same ability as the node itself when random is 0.53%
+The average fraction of neighbors with the same egg group as the node itself when random is 7.04%
 Statistical tests for the three fields:
-Typing: 1.5906983777807297e-92
-Abilities: 7.487819881326432e-52
-Egg Groups: 1.089762462107294e-53
+Typing: 1.1465709813025333e-95
+Abilities: 1.1550529811062957e-53
+Egg Groups: 1.3645842338442128e-53
 The modularity is 0.14
 There are 6 communities
-The community sizes are [100, 82, 31, 16, 108, 97]
+The community sizes are [97, 73, 54, 93, 96, 21]
 The top 5 pokemon in each community are:
 Community 1:
 Pikachu
@@ -33,35 +33,35 @@ Meowth
 Wobbuffet
 Chespin
 Community 2:
+Sylveon
+Smeargle
+Eevee
+Furret
+Teddiursa
+Community 3:
 Fletchling
 Marill
 Furfrou
-Skitty
-Smeargle
-Community 3:
-Panpour
-Pidgeotto
-Swablu
-Bulbasaur
-Espurr
-Community 4:
-Staravia
-Ursaring
-Skarmory
-Butterfree
-Altaria
-Community 5:
-Hoppip
 Helioptile
+Skitty
+Community 4:
+Hoppip
 Oddish
 Watchog
-Sentret
-Community 6:
+Gogoat
+Zigzagoon
+Community 5:
+Hawlucha
 Luxray
-Sylveon
 Greninja
-Swanna
+Sentret
 Talonflame
+Community 6:
+Swanna
+Wooper
+Gulpin
+Lotad
+Beedrill
 Testing modularity
 The average modularity after double edge swap test is 0.08
-The p-value for the modularity test is 2.2730073183601502e-121
+The p-value for the modularity test is 6.071982935966065e-134

@@ -15,41 +15,41 @@ The degree assortativity coefficient is -0.25
 The average fraction of neighbors with the same typing as the node itself is 4.40%
 The average fraction of neighbors with the same ability as the node itself is 0.69%
 The average fraction of neighbors with the same egg group as the node itself is 11.44%
-The average fraction of neighbors with the same typing as the node itself when random is 3.31%
-The average fraction of neighbors with the same ability as the node itself when random is 0.58%
-The average fraction of neighbors with the same egg group as the node itself when random is 8.34%
+The average fraction of neighbors with the same typing as the node itself when random is 3.37%
+The average fraction of neighbors with the same ability as the node itself when random is 0.60%
+The average fraction of neighbors with the same egg group as the node itself when random is 8.41%
 Statistical tests for the three fields:
-Typing: 6.129826479159488e-51
-Abilities: 1.4522226042439702e-20
-Egg Groups: 5.33321340549413e-54
-The modularity is 0.16
+Typing: 4.8263320833630126e-46
+Abilities: 1.4212385586861323e-15
+Egg Groups: 1.464994800477246e-51
+The modularity is 0.15
 There are 4 communities
-The community sizes are [88, 112, 19, 102]
+The community sizes are [93, 52, 74, 102]
 The top 5 pokemon in each community are:
 Community 1:
-Pikachu
-Axew
-Meowth
-Oshawott
-Pignite
-Community 2:
-Amoonguss
-Dragonite
-Frillish
-Charizard
-Boldore
-Community 3:
-Liepard
-Gurdurr
-Reshiram
-Conkeldurr
-Golbat
-Community 4:
 Pidove
 Deerling
 Patrat
 Swanna
 Audino
+Community 2:
+Zebstrika
+Sawk
+Eevee
+Pansear
+Tranquill
+Community 3:
+Amoonguss
+Frillish
+Charizard
+Boldore
+Leavanny
+Community 4:
+Pikachu
+Axew
+Meowth
+Oshawott
+Pignite
 Testing modularity
 The average modularity after double edge swap test is 0.08
-The p-value for the modularity test is 7.971605844976925e-131
+The p-value for the modularity test is 3.978460716403099e-130

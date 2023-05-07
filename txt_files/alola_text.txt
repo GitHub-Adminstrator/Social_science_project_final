@@ -15,16 +15,16 @@ The degree assortativity coefficient is -0.26
 The average fraction of neighbors with the same typing as the node itself is 5.33%
 The average fraction of neighbors with the same ability as the node itself is 0.86%
 The average fraction of neighbors with the same egg group as the node itself is 9.95%
-The average fraction of neighbors with the same typing as the node itself when random is 2.83%
-The average fraction of neighbors with the same ability as the node itself when random is 0.46%
-The average fraction of neighbors with the same egg group as the node itself when random is 6.79%
+The average fraction of neighbors with the same typing as the node itself when random is 2.87%
+The average fraction of neighbors with the same ability as the node itself when random is 0.47%
+The average fraction of neighbors with the same egg group as the node itself when random is 6.66%
 Statistical tests for the three fields:
-Typing: 5.423749387116477e-96
-Abilities: 2.1671103746908964e-77
-Egg Groups: 1.3292357892948626e-70
+Typing: 5.130737729944159e-90
+Abilities: 6.232456813564207e-81
+Egg Groups: 1.8463045541331617e-75
 The modularity is 0.13
-There are 5 communities
-The community sizes are [164, 86, 94, 43, 65]
+There are 4 communities
+The community sizes are [183, 64, 102, 103]
 The top 5 pokemon in each community are:
 Community 1:
 Pikachu
@@ -33,29 +33,23 @@ Togedemaru
 Vulpix
 Turtonator
 Community 2:
-Salandit
-Yungoos
-Raticate
-Zubat
-Comfey
-Community 3:
 Growlithe
-Slowpoke
+Psyduck
 Wingull
 Bounsweet
-Poliwag
-Community 4:
-Psyduck
-Jigglypuff
-Sudowoodo
-Boldore
-Pikipek
-Community 5:
+Machop
+Community 3:
+Slowpoke
 Grubbin
 Butterfree
-Spearow
+Exeggutor
+Poliwag
+Community 4:
+Salandit
+Yungoos
 Raichu
-Persian
+Raticate
+Zubat
 Testing modularity
-The average modularity after double edge swap test is 0.12
-The p-value for the modularity test is 1.8655213306950164e-19
+The average modularity after double edge swap test is 0.11
+The p-value for the modularity test is 9.097487403168902e-34

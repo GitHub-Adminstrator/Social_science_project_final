@@ -253,6 +253,12 @@ Overall, we can say that the collocation analysis provided some confirmation in 
 it is definitely not a perfect method for extracting themes from the text.
 
 ## **Wordclouds**
+Now we are going to plot all the wordclouds for each season, and finally one plot for all the seasons combined.
+We are plotting both the plain counts and the discriminatory counts wordclouds.
+
+We are not going to describe every wordcloud but rather just show them, and then describe the overall important in a
+conclusion.
+
 ### **Indigo League**
 ![Indigo League - wordcloud](/wordclouds/Indigo_League_mask_coloring_discriminatory.png)
 
@@ -263,7 +269,7 @@ it is definitely not a perfect method for extracting themes from the text.
 ![Johto League - wordcloud](/wordclouds/Johto_League_mask_coloring_discriminatory.png)
 
 ### **Pokémon Journeys**
-![Pokémon Journeys - wordcloud](/wordclouds/Pokemon_Journeys_mask_coloring_discriminatory.png)
+![Pokémon Journeys - wordcloud](/wordclouds/Pokémon_Journeys_mask_coloring_discriminatory.png)
 
 ### **Hoenn League**
 ![Hoenn League - wordcloud](/wordclouds/Hoenn_League_mask_coloring_discriminatory.png)
@@ -282,3 +288,20 @@ it is definitely not a perfect method for extracting themes from the text.
 
 ### **All seasons**
 ![All seasons - wordcloud](/wordclouds/All_seasons_mask_coloring.png)
+
+### **Wordclouds conclusion**
+From the counts wordclouds we can see that there are some themes which are quite obvious in the wordclouds, such as the names
+of the most prominent characters and Pokémon, such as Ash, Pikachu, Misty, Brock, Team Rocket, etc. This shows that the
+wordclouds are quite good at extracting the most prominent words from the text. But we can also see that those words do
+not really tell us anything about the themes of the seasons. Furthermore, this is probably also caused by the fact that
+Pokémon series is quite simplistic in its language and the show is quite repetitive in its language and structure.
+
+From the discriminative counts wordclouds, we mostly see the characters and Pokémon names, that are mostly only
+mentioned in that specific season. In every season Ash (the protagonist) have some sort of new companion or rival
+and a new Pokémon. This is clearly defined in the wordclouds, since we can see that the names of the characters and
+Pokémon are the most prominent words in the discriminative counts wordclouds. For example in _Pokémon Journeys_ we
+can clearly see the character Goh and his Pokémon Raboot, which are not mentioned in any other season.
+
+Overall, we can say that the wordclouds are quite good at extracting the most prominent words from the text, but they
+are not good at extracting the themes of the seasons. We can mostly see the difference in the characters and Pokémon
+that are used every season.

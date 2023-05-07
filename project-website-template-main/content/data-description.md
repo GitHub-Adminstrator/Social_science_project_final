@@ -8,9 +8,9 @@ This project uses 2 main data sets. [Base Pokémon data](#base-pokémon-data-set
 
 The two data sets can be downloaded here:
 
-> [Base Pokémon data set](/pokemon_clean.pickle) (978 KB)
+> # <a href="/pokemon_clean.pickle" download>Base Pokémon data set</a> (978 KB)
 
-> [Episode Plot data set](/all_seasons_df.pkl) (9018 KB)
+> # <a href="/all_seasons_df.pkl" download>Episode Plot data set</a> (9018 KB)
 
 The data sets are described in more detail below.
 

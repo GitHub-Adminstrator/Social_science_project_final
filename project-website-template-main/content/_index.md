@@ -17,4 +17,4 @@ With the data provided from **PokéAPI** and **Bulbapedia**, an investigation of
 
 ## Wordcloud of all seasons:
 
-<img src="images/wordcloud_all.png" width="500" />
+<img src="wordclouds/All_seasons_mask_coloring.png" width="500" />

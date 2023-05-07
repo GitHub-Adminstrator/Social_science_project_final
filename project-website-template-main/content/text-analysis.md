@@ -1,6 +1,7 @@
 ---
 title: Text analysis
 prev: network-analysis
+next: "discussion"
 ---
 
 ## Seasons: [1](#season-1) [2](#season-2) [3](#season-3) [4](#season-4) [5](#season-5) [6](#season-6) [7](#season-7) [8](#season-8) [9](#season-9) [All](#all-seasons)

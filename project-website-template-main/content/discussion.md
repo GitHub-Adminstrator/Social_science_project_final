@@ -1,6 +1,6 @@
 ---
 title: Discussion and conclusion
-prev: discussion
+prev: text-analysis
 ---
 
 To first conclude on this project, generally, many aspects went well. Through numerous analyses, this project was able to explore and answer the research questions that laid the foundation for the entire work. These were:

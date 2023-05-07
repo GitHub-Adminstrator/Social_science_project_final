@@ -19,8 +19,6 @@ With the data provided from **PokéAPI** and **Bulbapedia**, an investigation of
 
 <img src="wordclouds/All_seasons_mask_coloring.png" width="500" />
 
-#
-#
 ## Research questions:
 
 Essentially, this project can be boiled down to the following **research questions**:

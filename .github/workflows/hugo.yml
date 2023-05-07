@@ -56,6 +56,7 @@ jobs:
         run: |
           hugo \
             -s project-website-template-main \
+            -d public/
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Upload artifact
